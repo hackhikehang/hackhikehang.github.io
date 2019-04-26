@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Christian, Husband, Father, Information Security Professional, Hiking Enthusiast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is EP. I am an information security professional who is currently living in Maine.  I am currently pursuing my MSISE through SANS.edu and am gaining valuable certifications and knowledge as a side benefit.
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have worked in an information security role for the past 8 years and have experience in the following industries:
+
+- Banking
+- Healthcare
+- Energy
+
